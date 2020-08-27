@@ -9,5 +9,3 @@ weird.<br>
 
 Interested in free software; <br>
 currently using Arch Linux + KDE.
-
-[Here is my blog(in Chinese)](https://ultrarare.space/)
