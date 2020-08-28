@@ -9,3 +9,5 @@ weird.<br>
 
 Interested in free software; <br>
 currently using Arch Linux + KDE.
+
+OpenPGP: `0x13E7 6CD6 E649 C28C 3385 4DF5 5E5A A665 6149 17F7`
