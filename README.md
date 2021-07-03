@@ -1,5 +1,5 @@
 Hilton Chain, <br>
-high school student & otaku; <br>
+~~high school student~~ self-learner & otaku; <br>
 weird.<br>
 
 Interested in free software; <br>
